@@ -74,21 +74,6 @@
     position: relative;
     text-transform: capitalize;
 } 
-.header-Blog{
-    width: 120px;
-    height: 40px;
-    font-size: 32px;
-    position: absolute;
-    z-index: 200;
-    top: 70;
-    left: 1190px;
-}
-.header-Blog ol{
-    background-color: #d0d1d3;
-    padding: 0 0 0 40;
-    text-transform: capitalize;
-    visibility: hidden;
-}
 /* -------------------------------------                       header-hover                   ----------------------------------------------*/
 .try{
     width: 100%;
@@ -132,7 +117,6 @@ li:hover .try2:hover::after{
     background-color: rgb(0, 0, 0);
     border: 1px solid rgb(255, 255, 255);
 }
-
 /* --------------------------------------------------------Home--------------------------------------------------- */
 .home{
     width: 100%;
