@@ -27,6 +27,9 @@
 .bor-50{
     border-radius: 50px;
 }
+.pointer{
+    cursor: pointer;
+}
 
 /* -------------------------------------------------------- */
 .header{
